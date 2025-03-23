@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I am a Frontend Developer with over 3 years of experience specializing in HTML, CSS, and JavaScript. My expertise includes advanced proficiency in Sass and Bootstrap. I have been actively using Vue.js for +2 years, gaining valuable experience in this popular JavaScript framework. In addition to my core skills, I am well-versed in API integration using Axios and proficient in version control with Git and GitHub. While my formal employment lasted for 8 months, I have been a dedicated freelancer for over a year, completing more than 70 projects that range from responsive web design to full-scale web application development. My recent experience also includes 3 months of hands-on work with Node.js, Express, and MongoDB. I am committed to delivering high-quality work, ensuring cross-browser compatibility, and adhering to industry best practices in every project.</p>
 
 ###
  
@@ -47,8 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###
